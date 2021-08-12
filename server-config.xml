@@ -1,0 +1,4 @@
+<servlet-mapping>
+<servlet-name>ServCache</servlet-name>
+<url-pattern>/ServCache</url-pattern>
+</servlet-mapping>:
